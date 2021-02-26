@@ -9,6 +9,9 @@ This application has potential for further development, for example generating s
 # Collaborators
 
 Paweł Marszał (me)
+
 Przemysław Lechowicz
+
 Radosław Szuma
+
 Wiktor Tarsa
